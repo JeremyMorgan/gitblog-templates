@@ -1,0 +1,26 @@
+{
+  "locals": {
+    "url": "http://jeremymorgan.github.io/",
+    "name": "Jeremy's GitHub powered programming blog",
+    "owner": "Jeremy Morgan",
+    "description": "Ramblings of a middle aged programmer. This should be a big hit."
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}
