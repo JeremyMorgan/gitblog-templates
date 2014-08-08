@@ -1,0 +1,18 @@
+ Volume in drive C is System
+ Volume Serial Number is 5CE2-AFF7
+
+ Directory of C:\projects\gitblog-templates
+
+08/08/2014  11:38 AM    <DIR>          .
+08/08/2014  11:38 AM    <DIR>          ..
+08/08/2014  11:36 AM    <DIR>          build
+08/08/2014  11:25 AM               526 config.json
+08/08/2014  11:36 AM    <DIR>          contents
+08/08/2014  11:36 AM    <DIR>          node_modules
+08/08/2014  08:50 AM               124 package.json
+08/08/2014  11:36 AM    <DIR>          plugins
+08/08/2014  08:50 AM                86 readme.md
+08/08/2014  11:36 AM    <DIR>          templates
+08/08/2014  11:38 AM                 0 test.txt
+               4 File(s)            736 bytes
+               7 Dir(s)  790,308,945,920 bytes free
